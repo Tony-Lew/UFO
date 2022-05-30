@@ -13,3 +13,12 @@ How the filters appear when first landing on the website.
 
 When you filter the information using one or multiple search boxes.
 ![UFO 3](https://user-images.githubusercontent.com/100821974/170890278-f249383b-42f4-49a6-90b2-6be205859ccc.png)
+
+## Summary
+
+### Changes:
+
+What I suggest for change is as follows.
+  - Change the code to have the filters automaticaly remove empty spaces at the end and have it change capital letters to lowercase so the data will be pulled correctly.
+  - Change the date filter so it does not have to be date specifice but possibly week or month so the user will git more information.
+  - Have a area for any photographs to be uploaded so the user could have more visual aids whlie reaserching.
